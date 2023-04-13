@@ -25,23 +25,32 @@
 
 Make sure you download the correct firmware. DO NOT flash Flagship firmware in Executive variant or vice versa. 
 
-2. Place downloaded file in your USB drive. Tip: You may place [Apps installation Script](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS) on the same USB so that the installation takes place right after Firmware is flashed. 
-3. Start the car engine and plug in the USB drive.
-4. On IHU, go to Settings > Vehicle > System > About > Long Press on the System Settings icon. Enter <xxxxxx>.
-5. Tap "SOC升级". If everything works, you should see a similar screen as below.
+2. Once downloaded, unzip the file. Make sure .zip file not corrupted by comparing checksum of your file with following hash. ([follow this guide](https://howardsimpson.blogspot.com/2022/01/quickly-create-checksum-in-windows.html) if you don't know how) 
+
+![image](https://user-images.githubusercontent.com/17538895/231807085-7fdb2793-8c39-42b9-942c-0e764a389c90.png)
+
+![image](https://user-images.githubusercontent.com/17538895/231807161-eb4b8a7c-68bf-4971-b40e-4c9cbcf2125b.png)
+
+
+
+3. Place unzipped files in your USB drive. Tip: You may place [Apps installation Script](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS) on the same USB so that the installation takes place right after Firmware is flashed. 
+4. Start the car engine and plug in the USB drive.
+5. Go to Settings > Vehicle > System > About. For Flagship/Premium, long tap on the "System Settings" icon. For Standard/Exec, long tap on "Mac address". (I'm not certain about Std/Exec variant, let me know if long tap not working)
+6. Keyboard now pops up. Enter "dy5391".
+7. Tap "SOC升级". If everything works, you should see a similar screen as below.
   
   ![image](https://user-images.githubusercontent.com/17538895/231667654-104b03aa-1b35-4aaa-8307-b939205f6a76.png)
   
   ![image](https://user-images.githubusercontent.com/17538895/231677754-d8075407-4130-4236-b1c3-21ac3dd3aed6.png)
   
-6. Tap "确定" to start te verification. 
+8. Tap "确定" to start te verification. 
   
   ![image](https://user-images.githubusercontent.com/17538895/231677926-2c75366f-52f9-4938-a58a-79d4ac74ce95.png)
 
   ![image](https://user-images.githubusercontent.com/17538895/231667748-b3181a3c-7442-4e15-95ce-db3b259c11b0.png)
   
-7. Once verification done, tap 升级 to proceed with upgrade and reboot.
+9. Once verification done, tap 升级 to proceed with upgrade and reboot.
   
   ![image](https://user-images.githubusercontent.com/17538895/231679709-4212f199-98b8-4ee9-9378-c4a64acedd10.png)
   
-8. Once rebooted, it should be upgraded to 617v1 / 618v1. If you have an installation script on your USB drive, your apps will be installed automatically.  
+10. Once rebooted, it should be upgraded to 617v1 / 618v1. If you have an installation script on your USB drive, your apps will be installed automatically.  

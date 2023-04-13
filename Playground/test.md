@@ -9,7 +9,7 @@ Why Would You Want to Flash Your IHU?
 - You may have updated to version 617 / 618 after 2-Mar-2023 and you wanted to install your own apps.
 
 Prerequisites:
-- IHU with Hardware version 0090 or 0200, Firmware version GKUI H379/L380, ATLAS H581/L582/H617(ver2)/L618(Ver2).
+- IHU with Hardware version 0090 or 0200, Firmware version GKUI H379 / L380, ATLAS H581 / L582/H617(ver2) / L618(Ver2).
 - USB drive formatted with FAT32 file system.
 - A device to download and copy files to USB drive.
 - (optional) A cup of coffee to stay alert. 
@@ -39,4 +39,4 @@ Make sure you download the correct firmware. DO NOT flash Flagship firmware in E
 
   ![image](https://user-images.githubusercontent.com/17538895/231667748-b3181a3c-7442-4e15-95ce-db3b259c11b0.png)
   
-7. Once rebooted, it should be upgraded to 617v1. If you have an installation script on your USB drive, your apps will be installed automatically.  
+7. Once rebooted, it should be upgraded to 617v1 / 618v1. If you have an installation script on your USB drive, your apps will be installed automatically.  

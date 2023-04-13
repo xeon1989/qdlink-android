@@ -4,8 +4,8 @@ Before You Start:
 - Flashing firmware comes with risk. Proceed with caution and exercise due diligence.
 - No warranty from me. If you broke your IHU, you will need to find your way out. 
 
-Should You flash 617v1 / 618v1 firmware?
-- If your IHU running on GKUI19, performance and functionality wise is good enough. We do not see any reason to upgrade to ATLAS (unless if you fancy the modern UI).
+Should You Flash 617v1 / 618v1 Firmware?
+- If your IHU is running on GKUI19, its performance and functionality are good enough. There is no need to upgrade to ATLAS unless you prefer the modern UI.
 - If your IHU running on ATLAS stucked on version 581/582 and you wanted to install your own apps, Yes.
 - If your IHU updated to version 617 / 618 after 2-Mar-2023 and you wanted to install your own apps, Yes.
 

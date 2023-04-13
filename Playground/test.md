@@ -4,9 +4,10 @@ Before You Start:
 - Flashing firmware comes with risk. Proceed with caution and exercise due diligence.
 - No warranty from me. If you broke your IHU, you will need to find your way out. 
 
-Why Would You Want to Flash Your IHU?
-- You might want to flash your IHU if it is stucked on version 581 and cannot be updated via OTA.
-- You may have updated to version 617 / 618 after 2-Mar-2023 and you wanted to install your own apps.
+Should You flash 617v1 / 618v1 firmware?
+- If your IHU running on GKUI19, performance and functionality wise is good enough. We do not see any reason to upgrade to ATLAS (unless if you fancy the modern UI).
+- If your IHU running on ATLAS stucked on version 581/582 and you wanted to install your own apps, Yes.
+- If your IHU updated to version 617 / 618 after 2-Mar-2023 and you wanted to install your own apps, Yes.
 
 Prerequisites:
 - IHU with Hardware version 0090 or 0200, Firmware version GKUI H379 / L380, ATLAS H581 / L582/H617(ver2) / L618(Ver2).

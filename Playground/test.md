@@ -1,21 +1,21 @@
-Flash your Proton X50 IHU to ATLAS version 617v1 / 618v1
+# Flash your Proton X50 IHU to ATLAS version 617v1 / 618v1 #
 
-Before You Start:
+## Before You Start ##
 - Flashing firmware comes with risk. Proceed with caution and exercise due diligence.
 - No warranty from me. If you broke your IHU, you will need to find your way out. 
 
-Should You Flash 617v1 / 618v1 Firmware?
+## Should You Flash 617v1 / 618v1 Firmware? ##
 - If your IHU is running on GKUI19, its performance and functionality are good enough. There is no need to upgrade to ATLAS unless you prefer the modern UI.
 - If your IHU running on ATLAS stucked on version 581/582 and you wanted to install your own apps, Yes.
 - If your IHU updated to version 617 / 618 after 2-Mar-2023 and you wanted to install your own apps, Yes.
 
-Prerequisites:
+## Prerequisites ##
 - IHU with Hardware version 0090 or 0200, Firmware version GKUI H379 / L380, ATLAS H581 / L582/H617(ver2) / L618(Ver2).
 - USB drive formatted with FAT32 file system.
 - A device to download and copy files to USB drive.
 - (optional) A cup of coffee to stay alert. 
 
-Steps to flash firmware:
+## Steps to flash firmware ##
 1. Download firmware file based on your X50 model.
 
 | Model              | Current Firmware           | Download |

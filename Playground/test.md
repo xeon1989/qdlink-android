@@ -32,11 +32,11 @@ Make sure you download the correct firmware. DO NOT flash Flagship firmware in E
   
   ![image](https://user-images.githubusercontent.com/17538895/231667654-104b03aa-1b35-4aaa-8307-b939205f6a76.png)
   
-  ![image](https://user-images.githubusercontent.com/17538895/231667699-c0ea4a3b-cd04-4183-930b-6c871e12d080.png)
+  ![image](https://user-images.githubusercontent.com/17538895/231677754-d8075407-4130-4236-b1c3-21ac3dd3aed6.png)
   
-6. After verification done, tap "升级" and wait for the reboot. Reboot might take around 10min to initialize.
+6. After verification done, tap "确定" and wait for the reboot. Reboot might take around 10min to initialize.
   
-  ![image](https://user-images.githubusercontent.com/17538895/231667727-ca51d248-f464-4829-b000-ae3f5a4bf7a4.png)
+  ![image](https://user-images.githubusercontent.com/17538895/231677926-2c75366f-52f9-4938-a58a-79d4ac74ce95.png)
 
   ![image](https://user-images.githubusercontent.com/17538895/231667748-b3181a3c-7442-4e15-95ce-db3b259c11b0.png)
   

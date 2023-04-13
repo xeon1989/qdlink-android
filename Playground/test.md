@@ -21,7 +21,7 @@
 | Model              | Current Firmware           | Download |
 |--------------------|----------------------------|----------|
 | Standard<br />Executive | GKUI: SW0SXRA1201L5064.00380 <br />ATLAS: SW0SXRA0616L5170.00582 <br />ATLAS: SW0SXRA1124L5170.00618(v2) | [Proton X50 Standard Executive.7z](https://we.tl/t-4B0fWElHnU)   |
-| Premium<br />Flagship   | GKUI: SW0SXRA1201H5064.00379 <br />ATLAS: SW0SXRA0616H5170.00581 <br />ATLAS: SW0SXRA1124H5170.00617(v2) | SW0SXRA1124H5170.00617(v1)   |
+| Premium<br />Flagship   | GKUI: SW0SXRA1201H5064.00379 <br />ATLAS: SW0SXRA0616H5170.00581 <br />ATLAS: SW0SXRA1124H5170.00617(v2) | [Proton X50 Premium Flagship.7z](https://we.tl/t-6AsXSxmlJU)   |
 
 Make sure you download the correct firmware. DO NOT flash Flagship firmware in Executive variant or vice versa. 
 

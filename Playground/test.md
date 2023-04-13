@@ -28,7 +28,9 @@ Note: Make sure you download correct firmware. DO NOT flash Flagship firmware in
 3. Start car engine and plug in USB drive. 
 4. On IHU, go to Settings > Vehicle > System > About > Long Press on the System Settings icon. Enter <xxxxxx>.
 5. Tap "SOC升级". If everything works, you should see similar screen as below. Make sure version number looks exactly the same.
-<picture of SOC menu>
-<picture of version upgrade>
+
+  picture of SOC menu
+  picture of version upgrade
+  
 6. After verification done, tap "升级" and wait for the reboot. Reboot might take ~10min to initialize.
 7. Once rebooted, it should be upgraded to 617v1. If you have installation script in USB, apps will be installed.  

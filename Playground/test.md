@@ -20,7 +20,7 @@ Steps to flash firmware:
 
 | Model              | Current Firmware           | Download |
 |--------------------|----------------------------|----------|
-| Standard<br />Executive | GKUI: SW0SXRA1201H5064.00380 <br />ATLAS: SW0SXRA0616L5170.00582 <br />ATLAS: SW0SXRA1124L5170.00618(v2) | SW0SXRA1124L5170.00618(v1)   |
+| Standard<br />Executive | GKUI: SW0SXRA1201L5064.00380 <br />ATLAS: SW0SXRA0616L5170.00582 <br />ATLAS: SW0SXRA1124L5170.00618(v2) | SW0SXRA1124L5170.00618(v1)   |
 | Premium<br />Flagship   | GKUI: SW0SXRA1201H5064.00379 <br />ATLAS: SW0SXRA0616H5170.00581 <br />ATLAS: SW0SXRA1124H5170.00617(v2) | SW0SXRA1124H5170.00617(v1)   |
 
 Make sure you download the correct firmware. DO NOT flash Flagship firmware in Executive variant or vice versa. 

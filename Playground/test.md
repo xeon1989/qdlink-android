@@ -27,11 +27,9 @@ Make sure you download the correct firmware. DO NOT flash Flagship firmware in E
 
 2. Once downloaded, unzip the file. Make sure .zip file not corrupted by comparing checksum of your file with following hash. ([follow this guide](https://howardsimpson.blogspot.com/2022/01/quickly-create-checksum-in-windows.html) if you don't know how) 
 
-![image](https://user-images.githubusercontent.com/17538895/231807085-7fdb2793-8c39-42b9-942c-0e764a389c90.png)
+![image](https://user-images.githubusercontent.com/17538895/232070563-37d87a31-5f3b-4c87-8498-8539b0123707.png)
 
-![image](https://user-images.githubusercontent.com/17538895/231807161-eb4b8a7c-68bf-4971-b40e-4c9cbcf2125b.png)
-
-
+![image](https://user-images.githubusercontent.com/17538895/232070741-8e56855e-36a0-4009-abb3-9507e45c89fc.png)
 
 3. Place unzipped files in your USB drive. Tip: You may place [Apps installation Script](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS) on the same USB so that the installation takes place right after Firmware is flashed. 
 4. Start the car engine and plug in the USB drive.

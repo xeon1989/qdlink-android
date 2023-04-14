@@ -20,8 +20,8 @@
 
 | Model              | Current Firmware           | Download |
 |--------------------|----------------------------|----------|
-| Standard<br />Executive | GKUI: SW0SXRA1201L5064.00380 <br />ATLAS: SW0SXRA0616L5170.00582 <br />ATLAS: SW0SXRA1124L5170.00618(v2) | [Proton X50 Standard Executive.7z](https://we.tl/t-4B0fWElHnU)   |
-| Premium<br />Flagship   | GKUI: SW0SXRA1201H5064.00379 <br />ATLAS: SW0SXRA0616H5170.00581 <br />ATLAS: SW0SXRA1124H5170.00617(v2) | [Proton X50 Premium Flagship.7z](https://we.tl/t-6AsXSxmlJU)   |
+| Standard<br />Executive | GKUI: SW0SXRA1201L5064.00380 <br />ATLAS: SW0SXRA0616L5170.00582 <br />ATLAS: SW0SXRA1124L5170.00618(v2) | [Proton X50 Standard Executive.7z](https://we.tl/t-Zy4XJLvyXm)   |
+| Premium<br />Flagship   | GKUI: SW0SXRA1201H5064.00379 <br />ATLAS: SW0SXRA0616H5170.00581 <br />ATLAS: SW0SXRA1124H5170.00617(v2) | [Proton X50 Premium Flagship.7z](https://we.tl/t-VCStGcgYo9)   |
 
 Make sure you download the correct firmware. DO NOT flash Flagship firmware in Executive variant or vice versa. 
 
@@ -36,7 +36,7 @@ Make sure you download the correct firmware. DO NOT flash Flagship firmware in E
 3. Place unzipped files in your USB drive. Tip: You may place [Apps installation Script](https://github.com/xeon1989/Proton-X50-APK-Installer-ATLAS) on the same USB so that the installation takes place right after Firmware is flashed. 
 4. Start the car engine and plug in the USB drive.
 5. Go to Settings > Vehicle > System > About. For Flagship/Premium, long tap on the "System Settings" icon. For Standard/Exec, long tap on "Mac address". (I'm not certain about Std/Exec variant, let me know if long tap not working)
-6. Keyboard now pops up. Enter "dy5391".
+6. Keyboard now pops up. Enter "xxxxxx".
 7. Tap "SOC升级". If everything works, you should see a similar screen as below.
   
   ![image](https://user-images.githubusercontent.com/17538895/231667654-104b03aa-1b35-4aaa-8307-b939205f6a76.png)
